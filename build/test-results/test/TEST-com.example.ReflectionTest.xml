@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.ReflectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-11T15:30:32" hostname="quanchengbinui-MacBookPro.local" time="0.081">
+  <properties/>
+  <testcase name="load()" classname="com.example.ReflectionTest" time="0.081"/>
+  <system-out><![CDATA[00:30:32.927 [Test worker] DEBUG com.example.ReflectionTest - clazz class org.example.model.User
+00:30:32.932 [Test worker] DEBUG com.example.ReflectionTest - clazz2 class org.example.model.User
+00:30:32.932 [Test worker] DEBUG com.example.ReflectionTest - clazz3 class org.example.model.User
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
